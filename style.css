@@ -21,25 +21,26 @@ body {
   line-height: 140%;
   letter-spacing: 0.2px;
   background-color: var(--slate-300);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
 }
 
 .qr-container {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
   display: flex;
   flex-direction: column;
   border-radius: 20px;
   background-color: var(--white);
   padding: var(--spacing-sm) var(--spacing-sm) var(--spacing-lg) var(--spacing-sm);
   gap: var(--spacing-md);
+  width: 95vw;
+  max-width: 320px;
 }
 
 .qr-img {
   border-radius: 10px;
-  height: 288px;
-  width: 288px;
+  max-width: 100%;
 }
 
 .qr-heading {
