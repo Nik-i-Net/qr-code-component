@@ -10,5 +10,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- [Solution URL](https://nik-i-net.github.io/qr-code-component/)
-- [Live Site URL](https://github.com/Nik-i-Net/qr-code-component/blob/main/screenshot.png)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-qr-card-Wrfz2J5gbz)
+- [Live Site URL](https://nik-i-net.github.io/qr-code-component/)
